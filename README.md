@@ -1,2 +1,4 @@
 # hello-world
-just a repo
+
+
+Hi this is ashok vardhan and i am leaning how to use github.
